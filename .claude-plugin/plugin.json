@@ -11,5 +11,17 @@
   "homepage": "https://raziel.co/developers",
   "repository": "https://github.com/Raziel-Holdings/claude-plugin",
   "license": "MIT",
-  "keywords": ["investing", "venture capital", "private equity", "startups", "irr", "moic", "safe", "cap table", "calculators"]
+  "keywords": [
+    "investing",
+    "venture capital",
+    "private equity",
+    "startups",
+    "irr",
+    "moic",
+    "safe",
+    "cap table",
+    "calculators"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://raziel.co/legal/privacy-policy"
 }
