@@ -23,5 +23,8 @@
     "calculators"
   ],
   "icon": ".claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://raziel.co/legal/privacy-policy"
+  "privacyPolicyUrl": "https://raziel.co/legal/privacy-policy",
+  "documentationUrl": "https://raziel.co/developers",
+  "supportUrl": "https://raziel.co/contact",
+  "termsOfServiceUrl": "https://raziel.co/legal/terms-of-service"
 }
