@@ -1,0 +1,15 @@
+{
+  "name": "raziel",
+  "displayName": "Raziel",
+  "version": "1.0.0",
+  "description": "Exact private-market and startup finance math in Claude: IRR, XIRR, MOIC, TVPI/DPI, carried interest, SAFE and convertible note conversion, dilution, pro rata, liquidation preferences, QSBS and 83(b) dates, runway and founder metrics, plus Raziel's guides and private-markets glossary. Free, no API key.",
+  "author": {
+    "name": "Raziel",
+    "email": "jordan@raziel.co",
+    "url": "https://raziel.co"
+  },
+  "homepage": "https://raziel.co/developers",
+  "repository": "https://github.com/Raziel-Holdings/claude-plugin",
+  "license": "MIT",
+  "keywords": ["investing", "venture capital", "private equity", "startups", "irr", "moic", "safe", "cap table", "calculators"]
+}

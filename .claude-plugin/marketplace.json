@@ -1,0 +1,17 @@
+{
+  "name": "raziel",
+  "owner": {
+    "name": "Raziel",
+    "email": "jordan@raziel.co"
+  },
+  "metadata": {
+    "description": "Raziel's plugins for Claude: private-market and startup finance calculators."
+  },
+  "plugins": [
+    {
+      "name": "raziel",
+      "source": "./",
+      "description": "Exact private-market and startup finance math (IRR, XIRR, MOIC, TVPI/DPI, SAFE conversion, dilution, QSBS and more) from Raziel's free calculators."
+    }
+  ]
+}

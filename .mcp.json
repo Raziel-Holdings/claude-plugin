@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "raziel": {
+      "type": "http",
+      "url": "https://raziel.co/mcp"
+    }
+  }
+}
